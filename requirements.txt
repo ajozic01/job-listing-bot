@@ -1,0 +1,5 @@
+pandas
+openpyxl
+selenium
+psycopg2
+dotenv
